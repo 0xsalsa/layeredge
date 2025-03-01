@@ -322,3 +322,8 @@
 <!-- a padding to disable MSIE and Chrome friendly error page -->
 
 [15:20:32 | 01-03-2025] ✅ Node started for 0x64234f49A1edcAC3b44a1f412EA589c32f38722a
+[19:32:00 | 01-03-2025] Wallet Address: 0x64234f49A1edcAC3b44a1f412EA589c32f38722a
+[19:32:00 | 01-03-2025] Node Points: 354807
+[19:32:00 | 01-03-2025] Last Claim Point: 27/02/2025 20:19:23
+[19:32:00 | 01-03-2025] ✅ Points claimed for 0x64234f49A1edcAC3b44a1f412EA589c32f38722a
+[19:32:01 | 01-03-2025] 🚨 Failed to start node for 0x64234f49A1edcAC3b44a1f412EA589c32f38722a: [object Object]
